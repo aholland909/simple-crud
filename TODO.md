@@ -1,0 +1,17 @@
+# Todo list
+- ~~Simple setup with nuxt~~
+- ~~Render the data from  https://jsonplaceholder.typicode.com/guide/~~
+- ~~Add simple vuetify layout~~
+- ~~Add simple buttons~~
+- Add click events to the buttons
+    - Create, add to to the todos, and add to the top (start to start with unshift)
+    - Change state of completed, maybe also bind css? different color?
+    - Delete to remove from the list
+    - Edit item from list 
+- Search box, return the todo, or goto todo page
+    - Look for it in Vuetify
+    - Create a search function 
+- Save the todos in localStorage? 
+- Use nuxt _.vue file? for todo pages?
+- yarn generate nuxt static project, gh pages plugin?
+- 
