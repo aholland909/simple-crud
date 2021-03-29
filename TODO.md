@@ -3,11 +3,12 @@
 - ~~Render the data from  https://jsonplaceholder.typicode.com/guide/~~
 - ~~Add simple vuetify layout~~
 - ~~Add simple buttons~~
+- ~~Sort API array~~
 - Add click events to the buttons
-    - Create, add to to the todos, and add to the top (start to start with unshift)
-    - Change state of completed, maybe also bind css? different color?
-    - Delete to remove from the list
-    - Edit item from list 
+    - ~~Create, add to to the todos, and add to the top (start to start with unshift)~~
+    - ~~Change state of completed, maybe also bind css? different color?~~
+    - ~~Delete to remove from the list~~
+    - ~~Edit item from list, https://stackoverflow.com/questions/56026220/how-to-programmatically-launch-a-vuetify-dialog-and-wait-for-the-response~~
 - Search box, return the todo, or goto todo page
     - Look for it in Vuetify
     - Create a search function 
